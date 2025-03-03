@@ -1,3 +1,6 @@
+# Overview
+Example of Pear desktop app with Typescript + React + Tailwind
+
 # Getting started
 ## Prod mode
 ```shell
